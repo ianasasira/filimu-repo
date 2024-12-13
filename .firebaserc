@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "filimu-11d6a"
-  }
+    "default": "netflix-clone-8f101",
+    "netflix": "netflix-clone-8f101"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
